@@ -9,3 +9,8 @@ This project implements a custom memory allocator that mimics the functionality 
 
 ## Homework Assignment
 The implementation is based on Homework Exercise 4 from the Operating Systems course (234123) at Technion. You can find the assignment details in the pdf file provided.
+
+## Files
+- `malloc_1.cpp` – Naïve Malloc.
+- `malloc_2.cpp` –  Basic Malloc.
+- `malloc_3.cpp` – Better Malloc.

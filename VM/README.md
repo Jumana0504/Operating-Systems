@@ -7,5 +7,5 @@ This project implements a custom memory allocator that mimics the functionality 
 - Custom implementations of memory management functions.
 - Utilizes sbrk() for heap management.
 
-- ## Homework Assignment
+## Homework Assignment
 The implementation is based on Homework Exercise 4 from the Operating Systems course (234123) at Technion. You can find the assignment details in the pdf file provided.

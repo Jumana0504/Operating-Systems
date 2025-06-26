@@ -7,6 +7,7 @@ This project implements a custom shell called `smash`, which mimics the behavior
 - Built-in commands: `cd`, `jobs`, `fg`, `chprompt`, and others.
 - Support for external commands.
 - Background and foreground job management.
+- Signal handling.
 
 ## Homework Assignment
-The implementation is based on Homework Exercise 1 from the Operating Systems course (234123) at Technion. You can find the assignment details in the pdf file provided.
+The implementation is based on Homework Exercise 1 from the Operating Systems course at Technion. You can find the assignment details in the pdf file provided.
